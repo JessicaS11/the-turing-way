@@ -23,7 +23,7 @@ As such, you first need to decide which data you need to share for others to be 
 
 ### Step 2: Choose a data repository or other sharing platform
 
-Data should be shared in a formal, open, and indexed data repository where possible so that it will be accessible in the long run.
+Data should be shared in a formal, open, and indexed data repository [{term}`def<Repository>`] where possible so that it will be accessible in the long run.
 Suitable data repositories by subject, content type or location can be found at [Re3data.org](https://www.re3data.org/), and in [FAIRsharing](https://fairsharing.org/databases) where you can also see which standards (metadata and identifier) the repositories implement and which journal/publisher recommend them.
 If possible use a repository that assigns a DOI, a digital object identifier, to make it easier for others to cite your data. Have a look in the {ref}`rr-credit` to see how to share and cite your data and other outputs.
 
@@ -31,7 +31,7 @@ A few public data repositories are [Zenodo](zenodo.org/), [Figshare](https://fig
 
 ### Step 3: Choose a licence and link to your paper and code
 
-So that others know what they can do with your data, you need to apply a licence to your data.
+So that others know what they can do with your data, you need to apply a licence [{term}`def<License>`] to your data.
 The most commonly used licences are [Creative Commons](https://creativecommons.org/choose/), [Open Government Licence](http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/), or an [Open Data Commons Attribution License](https://opendatacommons.org/licenses/by/index.html).
 To get maximum value from data sharing, make sure that your paper and code both link to your data, and vice versa, to allow others understand your project better.
 
@@ -43,7 +43,8 @@ Data should be presented in structured and standardised formats to support inter
 In many cases, this will include providing data in multiple, standardized formats, so that it can be processed by computers and used by people.
 
 ## Additional resources on data sharing
-See also the '[How can you make research data accessible?](https://www.software.ac.uk/how-can-you-make-research-data-accessible)' blog that contains five steps to make your data more accessible. 
+* '[How can you make research data accessible?](https://www.software.ac.uk/how-can-you-make-research-data-accessible)': a blog that contains five steps to make your data more accessible
+* The European Commission's [data guidelines](https://open-research-europe.ec.europa.eu/for-authors/data-guidelines)
 
 (rr-rdm-data-availability-statement)=
 ## Data Availability Statement
@@ -55,4 +56,4 @@ See below for some examples.
 * The data that support the findings will be available in [repository name] at [URL / DOI] following a [6 month] embargo from the date of publication to allow for the commercialisation of research findings.
 * Restrictions apply to the data that support the findings of this study. [Explain nature of restrictions, for example, the data contains information that could compromise the privacy of research participants] Data are available upon reasonable request by contacting [name and contact details] and with permission of [third party name].
 
-You can find more examples on the [Data Access statements page](https://www.library.manchester.ac.uk/using-the-library/staff/research/research-data-management/sharing/data-access-statements/) from the University of Manchester, or Nature's [Tips for writing a dazzling Data Availability Statement](https://researchdata.springernature.com/posts/tips-for-writing-a-dazzling-das-data-availability-statement)
+You can find more examples on the [Manchester's Data Access statements page](https://www.library.manchester.ac.uk/using-the-library/staff/research/research-data-management/sharing/data-access-statements/), the [Cambridge Data Availability Statement examples](https://www.cambridge.org/core/services/authors/open-data/data-availability-statements), the [AMS Data Availability Statement examples](https://www.ametsoc.org/index.cfm/ams/publications/author-information/formatting-and-manuscript-components/data-availability-statement-examples/), or [Nature's Tips for writing a dazzling Data Availability Statement](https://researchdata.springernature.com/posts/tips-for-writing-a-dazzling-das-data-availability-statement). 

@@ -12,7 +12,7 @@ This lack of data sharing is an obstacle to international research (be it academ
 2. The data cannot be reused or incorporated into new work by other researchers if they cannot obtain access to it.
 
 Accordingly, there is an ongoing global data revolution that seeks to advance collaboration and the creation and expansion of effective, efficient research programs.
-Open data is crucial to meeting these objectives.
+Open data [{term}`def<Open data>`] is crucial to meeting these objectives.
 Open data is freely available on the internet. 
 Any user is permitted to download, copy, analyse, re-process, and re-use it for any other purpose with minimal financial, legal, and technical barriers.
 
@@ -24,7 +24,6 @@ Free access to and subsequent use of data is of significant value to society and
 That data should, therefore, be open by default and only as closed as necessary. 
 
 You can find more about the practical steps to make your data available in the section describing {ref}`Steps to Share your Data <rr-rdm-sharing-steps>` in the subchapter: {ref}`Sharing and Archiving Data<rr-rdm-sharing>`.
-
 
 (rr-open-data-barriers)=
 ## Barriers to Data Sharing
@@ -38,6 +37,15 @@ Recent surveys {cite}`Stuart2018sharing` conducted amongst researchers list the 
 These are cultural challenges that might be addressed in changing practice going forward.
 However, there are also legal, ethical or contractual reasons that sometimes prevent making data publicly available in its entirety or even in parts.
 Below, we discuss some reasons explaining why this may be the case.
+
+```{figure} ../../figures/data-privacy.jpg
+---
+height: 500px
+name: data-privacy
+alt: An image detailing why private data should be used. A person stands next to a well with 'private data' written on it and a padlock around it. It is black and white and blue. The text lists that 'people deserve: dignity, agency, privacy, rights, confirmed consent.'
+---
+_The Turing Way_ project illustration by Scriberia. Original version on Zenodo. [http://doi.org/10.5281/zenodo.3695300](http://doi.org/10.5281/zenodo.3695300)
+```
 
 (rr-open-data-barriers-privacy)=
 ### Privacy And Data Protection
