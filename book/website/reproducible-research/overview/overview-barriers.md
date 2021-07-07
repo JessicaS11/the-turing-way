@@ -5,7 +5,7 @@ So far we have explained {ref}`what we mean<rr-overview-definitions>` by reprodu
 
 In this section we cover some of the (real and perceived) barriers you may face in making your work reproducible.
 
-```{figure} ../../figures/barriers_reproducibility.png
+```{figure} ../../figures/barriers-reproducibility.png
 ---
 width: 500px
 name: reproducibility-barriers
@@ -35,7 +35,7 @@ We know that no one wants to incriminate themselves, and also that no one is inf
 Putting your code and data online can be very revealing and intimidating, and it is part of the human condition to be nervous of being judged by others.
 Although there is no _law_ governing the communication of reproducible research - unless you commit explicit fraud in your work - sharing errors that you find in your work is heavily disincentivised.
 
-```{figure} ../../figures/make_ok_to_be_human.jpg
+```{figure} ../../figures/make-ok-to-be-human.jpg
 ---
 height: 500px
 name: make-ok-to-be-human
@@ -91,7 +91,7 @@ As we described in the {ref}`"Plead the Fifth"<rr-overview-barriers-incentives>`
 
 In the current academic system, a primary consideration for promotion is the proven ability to be awarded grants and recruit students.
 Both funding bodies and prospective students value novelty and this behaviour is reflected in preferentially rewarding papers with a high [journal impact factor](https://en.wikipedia.org/wiki/Impact_factor).
-It is likely part of the human condition to be motivated by things that are new or surprising, but as {ref}`discussed above<rr-overview-publication>`, this bias towards novelty causes a systematic publication bias.
+It is likely part of the human condition to be motivated by things that are new or surprising, but as {ref}`discussed above<rr-overview-barriers-publication>`, this bias towards novelty causes a systematic publication bias.
 
 More broadly, the promotion system in academia tends to reward individuals who have shown themselves to be different from others in their field.
 That means sharing code and data to make it easy for "competitors" to do the same work ends up being discouraged by promotion and funding selection panels.
@@ -140,7 +140,7 @@ Throughout the project, time may be required to maintain the reproducible pipeli
 Time may also be spent communicating with collaborators to agree on which parts of the project may be open source and when and how these outputs are shared.
 Researchers may find that they need to "upskill" their colleagues to allow the team to benefit from reproducibility tools such as git and GitHub, containers, Jupyter notebooks, or databases.
 
-```{figure} ../../figures/help_you_of_the_future.jpg
+```{figure} ../../figures/help-you-of-the-future.jpg
 ---
 width: 500px
 name: help-you-of-the-future

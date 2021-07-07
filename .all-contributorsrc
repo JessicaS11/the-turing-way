@@ -1724,7 +1724,8 @@
       "contributions": [
         "review",
         "ideas",
-        "maintenance"
+        "maintenance",
+        "talk"
       ]
     },
     {
@@ -1955,7 +1956,8 @@
       "avatar_url": "https://avatars2.githubusercontent.com/u/10584818?v=4",
       "profile": "http://www.veronikach.com",
       "contributions": [
-        "ideas"
+        "ideas",
+        "content"
       ]
     },
     {
@@ -2019,7 +2021,8 @@
       "avatar_url": "https://avatars2.githubusercontent.com/u/67780317?v=4",
       "profile": "https://github.com/Marta-MM",
       "contributions": [
-        "bug"
+        "bug",
+        "content"
       ]
     },
     {
@@ -2430,7 +2433,8 @@
       "avatar_url": "https://avatars.githubusercontent.com/u/77735779?v=4",
       "profile": "http://beckigreen.netlify.app",
       "contributions": [
-        "ideas"
+        "ideas",
+        "content"
       ]
     },
     {
@@ -2505,7 +2509,8 @@
       "avatar_url": "https://avatars.githubusercontent.com/u/82104604?v=4",
       "profile": "https://github.com/lottycoupat",
       "contributions": [
-        "bug"
+        "bug",
+        "content"
       ]
     },
     {
@@ -2514,7 +2519,8 @@
       "avatar_url": "https://avatars.githubusercontent.com/u/42379883?v=4",
       "profile": "https://github.com/mcnanton",
       "contributions": [
-        "bug"
+        "bug",
+        "content"
       ]
     },
     {
@@ -2523,7 +2529,8 @@
       "avatar_url": "https://avatars.githubusercontent.com/u/53548707?v=4",
       "profile": "https://github.com/marianaiv",
       "contributions": [
-        "bug"
+        "bug",
+        "content"
       ]
     },
     {
@@ -2571,7 +2578,79 @@
       "contributions": [
         "bug"
       ]
-    }
+    },
+    {
+      "login": "andreea-avramescu",
+      "name": "Andreea Avramescu",
+      "avatar_url": "https://avatars.githubusercontent.com/u/33720256?v=4",
+      "profile": "https://github.com/andreea-avramescu",
+      "contributions": [
+        "content"
+      ]
+    },
+    {
+      "login": "hlnicholls",
+      "name": "hlnicholls",
+      "avatar_url": "https://avatars.githubusercontent.com/u/53306752?v=4",
+      "profile": "https://github.com/hlnicholls",
+      "contributions": [
+        "content"
+      ]
+    },
+    {
+      "login": "yabellini",
+      "name": "Yanina Bellini Saibene",
+      "avatar_url": "https://avatars.githubusercontent.com/u/2473676?v=4",
+      "profile": "https://yabellini.netlify.com/",
+      "contributions": [
+        "content"
+      ]
+    },
+    {
+      "login": "dineshkumar12004",
+      "name": "Dinesh kumar",
+      "avatar_url": "https://avatars.githubusercontent.com/u/67814205?v=4",
+      "profile": "https://github.com/dineshkumar12004",
+      "contributions": [
+        "bug"
+      ]
+    },
+    {
+      "login": "ninadicara",
+      "name": "Nina",
+      "avatar_url": "https://avatars.githubusercontent.com/u/44364127?v=4",
+      "profile": "https://github.com/ninadicara",
+      "contributions": [
+        "review"
+      ]
+    },
+    {
+      "login": "vcpope",
+      "name": "vcpope",
+      "avatar_url": "https://avatars.githubusercontent.com/u/62377353?v=4",
+      "profile": "https://github.com/vcpope",
+      "contributions": [
+        "talk"
+      ]
+    },
+    {
+    "login": "ThyavdBerg",
+      "name": "Thya van den Berg",
+      "avatar_url": "https://avatars.githubusercontent.com/u/77287134?v=4",
+      "profile": "https://github.com/ThyavdBerg",
+      "contributions": [
+        "eventOrganizing"
+      ]
+    },
+    {
+      "login": "mishkanemes",
+      "name": "mishkanemes",
+      "avatar_url": "https://avatars.githubusercontent.com/u/39628884?v=4",
+      "profile": "https://twitter.com/mishkanemes",
+      "contributions": [
+        "eventOrganizing"
+      ]
+    }  
   ],
   "projectName": "the-turing-way",
   "projectOwner": "alan-turing-institute",

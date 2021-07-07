@@ -24,8 +24,8 @@ For example, when writing a paper with multiple collaborators, version control c
 
 Different version control systems can be used through a program with a graphical user interface, web browser-based applications, or command-line tools.
 We have all seen a simple file versioning approach where different versions of a file are stored with a different name.
-Tools such as Google Drive and Dropbox offer platforms to update files and share them with others in real-time, collaboratively. 
-More sophisticated version control system exists within tools like [Google docs](https://docs.google.com/) or [HackMD](http://hackmd.io/). 
+Tools such as Google Drive and Dropbox offer platforms to update files and share them with others in real-time, collaboratively.
+More sophisticated version control system exists within tools like [Google docs](https://docs.google.com/) or [HackMD](http://hackmd.io/).
 These allow collaborators to update files while storing each version in its version history (we will discuss this in detail).
 Advanced version control systems (VCS) such as [Git](https://en.wikipedia.org/wiki/Git), [Mercurial](https://www.mercurial-scm.org/), and [SVN](https://subversion.apache.org/) provide much more powerful tools.
 
@@ -36,12 +36,12 @@ Most instructions given in this chapter will also be geared towards Git, which i
 Later in this chapter, we also discuss version control for data, which is applied to keep track of revisions of large amounts of data, especially when working collaboratively.
 It is useful to know that data can be volatile and versioning them can improve the reproducibility of your scientific analyses.
 
-```{figure}  ../figures/ProjectHistory.jpg
+```{figure}  ../figures/project-history.jpg
 ---
-name: ProjectHistory
+name: project-history
 alt: Contrast in project history management. On the left - choosing between ambiguosly named files. On the right - picking between successive versions (from V1 to V6).
 ---
-_The Turing Way_ project illustration by Scriberia. Original version on Zenodo. http://doi.org/10.5281/zenodo.3695300. 
+_The Turing Way_ project illustration by Scriberia. Used under a CC-BY 4.0 licence. DOI: [10.5281/zenodo.3332807](https://doi.org/10.5281/zenodo.3332807).
 ```
 
 (rr-vcs-useful)=

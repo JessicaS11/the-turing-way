@@ -33,10 +33,10 @@ Markdown syntax [{term}`def<Syntax>`] is designed to be human readable even if i
 This allows you to format your text into a nice-looking document, including adding in links, pictures, tables and web links.
 In most cases, GitHub even provides a "preview" option that allows you to see what your rendered document will look like.
 
-For example, if you want to put a heading in markdown you use a ‘#’ (hash symbol) followed by a space and the title. 
+For example, if you want to put a heading in markdown you use a ‘#’ (hash symbol) followed by a space and the title.
 Like this `# heading 1`, this will produce the first level header style for that text.
 
-### Resources to help you learn markdown: 
+### Resources to help you learn markdown:
 
 * How to write faster, better & longer: [the ultimate guide to Markdown](https://ghost.org/changelog/markdown/)
 * [Markdowncheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
